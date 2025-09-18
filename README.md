@@ -19,13 +19,13 @@ Here are some of the skills I've picked up:
     <b>Languages</b>:
 </p>
 
-![C++](https://gist.githubusercontent.com/NumaanQureshi/aea43670d92dd6b6573bc880e319597b/raw/2aaa9b03cef070de750ff2156e67f77098af98ff/cplusplus.svg)
+![C++](https://gist.githubusercontent.com/NumaanQureshi/aea43670d92dd6b6573bc880e319597b/raw/6ef8f336fc12ea54488ffe812e5641bdb85495b5/cplusplus.svg)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Python](https://gist.githubusercontent.com/NumaanQureshi/bbaa28527440bbf71288f5cde6d0e058/raw/746deb75030632f94bb80f20e66f40432e928554/python.svg)
+![Python](https://gist.githubusercontent.com/NumaanQureshi/bbaa28527440bbf71288f5cde6d0e058/raw/fb8f2694ca44a0b8183c379e6b6357e220b31c57/python.svg)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![mySQL](https://gist.githubusercontent.com/NumaanQureshi/f6ee4bd2de91bb35428c5607c65954ec/raw/e24a210c2d1cafafecef0e03f51a2515754a7549/mySQL.svg)
+![mySQL](https://gist.githubusercontent.com/NumaanQureshi/f6ee4bd2de91bb35428c5607c65954ec/raw/6b6b5be80448f2a1915ec858995723a7d0822748/mySQL.svg)
 
-<p align="left", style="color: white;">
+<!-- <p align="left", style="color: white;">
     &nbsp;&nbsp;&nbsp;
     <b>C++</b>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,7 +33,7 @@ Here are some of the skills I've picked up:
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <b>mySQL</b>
 
-</p>
+</p> -->
 
 ---
 
@@ -41,12 +41,12 @@ Here are some of the skills I've picked up:
     <b>Tools</b>:
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 ![VS Code](https://gist.githubusercontent.com/NumaanQureshi/bb1a409371cc1a01aec9287c514ab8c7/raw/050bebec96b707ea28cab5859c43c364131022b5/vscode.svg)
 
-<p align="left" style="color: white;">
+<!-- <p align="left" style="color: white;">
     <b>Visual Studio Code</b>
-</p>
+</p> -->
 
 ---
 
@@ -54,17 +54,17 @@ Here are some of the skills I've picked up:
     <b>Currently Learning</b>:
 </p>
 
-![Flutter](https://gist.githubusercontent.com/NumaanQureshi/95cffbb41d6857e53a68cf4310effc7f/raw/2e4edea36990ed34672c0bcc119308f009bb2557/flutter.svg)
+![Flutter](https://gist.githubusercontent.com/NumaanQureshi/95cffbb41d6857e53a68cf4310effc7f/raw/7a45c7e6ef092bbdeaf29b9f3a11ca4adcfbc18c/flutter.svg)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Dart](https://gist.githubusercontent.com/NumaanQureshi/71750b2747f73235dfac24b09dec3336/raw/7d08dfd65e11d7b5dc83d7a5a8d18b492c4d27b1/dart.svg)
+![Dart](https://gist.githubusercontent.com/NumaanQureshi/71750b2747f73235dfac24b09dec3336/raw/084942d8d353df7728813ee585e691f2826b5132/dart.svg)
 
-<p align="left" style="color: white;">
+<!-- <p align="left" style="color: white;">
     &nbsp;
     <b>Flutter</b>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <b>Dart</b>
 
-</p>
+</p> -->
 
 
 <!--
