@@ -1,4 +1,17 @@
-## Hi there 👋
+Greetings!
+
+My name is Numaan Qureshi. I'm a comp sci student based in NYC and I hope to graduate in January 2026.
+Some courses I've taken are:
+**Data Structures and Algorithms**
+**Operating Systems**
+**Computer Architecture**
+**Database Management**
+
+Here are some of the skills I've picked up:
+
+**Languages**: C++, Python, mySQL
+**Tools:** VSCode, PyCharm
+**Currently Learning:** Flutter SDK, Dart, 
 
 <!--
 **NumaanQureshi/NumaanQureshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
