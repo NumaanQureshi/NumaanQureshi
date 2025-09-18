@@ -1,4 +1,4 @@
-## Greetings
+## Greetings!
 
 My name is Numaan Qureshi. I'm a computer science student based in NYC, and I hope to graduate in January 2026.
 
@@ -23,7 +23,7 @@ Here are some of the skills I've picked up:
 
 
 
-<div style="text-align:center;">
+<div>
 
 ![C++](https://gist.githubusercontent.com/NumaanQureshi/aea43670d92dd6b6573bc880e319597b/raw/2aaa9b03cef070de750ff2156e67f77098af98ff/cplusplus.svg)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -34,11 +34,11 @@ Here are some of the skills I've picked up:
 </div>
 
 <p align="left" style="color: white;">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <b>C++</b>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <b>Python</b>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <b>mySQL</b>
 
 </p>
@@ -49,12 +49,14 @@ Here are some of the skills I've picked up:
     <b>Tools</b>:
 </p>
 
-<div style="text-align:center;">
+<div>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![VS Code](https://gist.githubusercontent.com/NumaanQureshi/bb1a409371cc1a01aec9287c514ab8c7/raw/53df497bca5304f79908fe5d2bd94071f9b54e25/vscode.svg)
+
 </div>
 
-<p align="center" style="color: white;">
+<p align="left" style="color: white;">
     <b>Visual Studio Code</b>
 </p>
 
@@ -64,7 +66,7 @@ Here are some of the skills I've picked up:
     <b>Currently Learning</b>:
 </p>
 
-<div style="text-align:center;">
+<div>
 
 ![Flutter](https://gist.githubusercontent.com/NumaanQureshi/95cffbb41d6857e53a68cf4310effc7f/raw/2e4edea36990ed34672c0bcc119308f009bb2557/flutter.svg)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -72,10 +74,12 @@ Here are some of the skills I've picked up:
 
 </div>
 
-<p align="center" style="color: white;">
+<p align="left" style="color: white;">
+    &nbsp;&nbsp;
     <b>Flutter</b>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <b>Dart</b>
+    
 </p>
 
 
