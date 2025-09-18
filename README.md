@@ -26,11 +26,11 @@ Here are some of the skills I've picked up:
 ![mySQL](https://gist.githubusercontent.com/NumaanQureshi/f6ee4bd2de91bb35428c5607c65954ec/raw/e24a210c2d1cafafecef0e03f51a2515754a7549/mySQL.svg)
 
 <p align="left", style="color: white;">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
     <b>C++</b>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <b>Python</b>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Python</b>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <b>mySQL</b>
 
 </p>
@@ -59,9 +59,9 @@ Here are some of the skills I've picked up:
 ![Dart](https://gist.githubusercontent.com/NumaanQureshi/71750b2747f73235dfac24b09dec3336/raw/7d08dfd65e11d7b5dc83d7a5a8d18b492c4d27b1/dart.svg)
 
 <p align="left" style="color: white;">
-    &nbsp;&nbsp;
+    &nbsp;
     <b>Flutter</b>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <b>Dart</b>
 
 </p>
