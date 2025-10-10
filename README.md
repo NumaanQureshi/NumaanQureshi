@@ -19,11 +19,11 @@ Here are some of the skills I've picked up:
     <b>Languages</b>:
 </p>
 
-![C++](https://gist.githubusercontent.com/NumaanQureshi/aea43670d92dd6b6573bc880e319597b/raw/6ef8f336fc12ea54488ffe812e5641bdb85495b5/cplusplus.svg)
+![C++](https://gist.githubusercontent.com/NumaanQureshi/aea43670d92dd6b6573bc880e319597b/raw/6ef8f336fc12ea54488ffe812e5641bdb85495b5/cplusplus.svg "C++")
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Python](https://gist.githubusercontent.com/NumaanQureshi/bbaa28527440bbf71288f5cde6d0e058/raw/fb8f2694ca44a0b8183c379e6b6357e220b31c57/python.svg)
+![Python](https://gist.githubusercontent.com/NumaanQureshi/bbaa28527440bbf71288f5cde6d0e058/raw/fb8f2694ca44a0b8183c379e6b6357e220b31c57/python.svg "Python")
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![mySQL](https://gist.githubusercontent.com/NumaanQureshi/f6ee4bd2de91bb35428c5607c65954ec/raw/6b6b5be80448f2a1915ec858995723a7d0822748/mySQL.svg)
+![mySQL](https://gist.githubusercontent.com/NumaanQureshi/f6ee4bd2de91bb35428c5607c65954ec/raw/6b6b5be80448f2a1915ec858995723a7d0822748/mySQL.svg "mySQL")
 
 <!-- <p align="left", style="color: white;">
     &nbsp;&nbsp;&nbsp;
