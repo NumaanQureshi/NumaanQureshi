@@ -14,7 +14,7 @@ Some courses I've taken are:
 
 Here are some of the skills I've picked up:
 
-<p align="center", style="font-size: 20px;">
+<p style="font-size: 20px;">
     <br>
     <b>Languages</b>:
 </p>
@@ -37,7 +37,7 @@ Here are some of the skills I've picked up:
 
 ---
 
-<p align="center", style="font-size: 20px;">
+<p style="font-size: 20px;">
     <b>Tools</b>:
 </p>
 
@@ -50,7 +50,7 @@ Here are some of the skills I've picked up:
 
 ---
 
-<p align="center", style="font-size: 20px;">
+<p style="font-size: 20px;">
     <b>Currently Learning</b>:
 </p>
 
