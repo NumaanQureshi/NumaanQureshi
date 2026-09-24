@@ -2,7 +2,7 @@
 
 I'm a Computer Science graduate based in NYC, currently pursuing my **M.S. in Computer Science (Computation)** at CUNY Brooklyn College, graduating in **December 2027**. I have a strong foundation in application security, software engineering, and mobile development. 
 
-🌱 **Currently looking for:** Internships and roles in Cybersecurity (Auditing, Consulting) and Software Engineering for 2026/2027.
+🌱 **Currently looking for:** Internships and roles in Cybersecurity (Auditing, Consulting, and Engineering) and Software Engineering for 2026/2027.
 
 ---
 
@@ -22,6 +22,10 @@ I'm a Computer Science graduate based in NYC, currently pursuing my **M.S. in Co
 
 ---
 
+### 🚧 Currently Building
+
+* **[CommonSens](https://github.com/NumaanQureshi/common-sens)** - A gaming utility tool that matches and converts mouse sensitivities across different games, allowing users to standardize DPI and maintain a consistent mouse feel.
+
 ### 🚀 Featured Projects
 
 * **[PWVault](https://gitlab.com/NumaanQureshi1/pwvault)** - A secure password and notes storage vault utilizing AES-256-GCM encryption and offline-first architecture. *Built with Flutter, JavaScript, and PostgreSQL (Google Cloud).*
@@ -34,7 +38,6 @@ I'm a Computer Science graduate based in NYC, currently pursuing my **M.S. in Co
 
 ---
 
-### 📫 Let's Connect!
+### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/numaan-q/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:numaan1@hotmail.com)
